@@ -1,0 +1,48 @@
+# Compiled output
+/dist/
+/tmp/
+/out-tsc/
+/bazel-out/
+
+# Node
+/node_modules/
+/npm-debug.log*
+/yarn-error.log*
+/package-lock.json
+
+# Angular-specific
+/.angular/cache
+/coverage/
+/src/*.ngsummary.json
+/src/*.ngfactory.ts
+/src/**/*.ngfactory.ts
+
+# IDEs and editors
+.idea/
+/.project
+.classpath
+.settings/
+/*.launch
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Logs
+*.log
+*.log.*
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+.env
+
+# Miscellaneous
+/libpeerconnection.log
+/testem.log
+/typings
